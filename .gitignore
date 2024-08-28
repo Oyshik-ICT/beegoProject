@@ -60,5 +60,5 @@ _testmain.go
 # Windows
 Thumbs.db
 
-# Compiled binary
-/beegoTempo
+# Compiled binary or directories specific to your project
+/CatCatcherBinary
