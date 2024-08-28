@@ -61,4 +61,5 @@ _testmain.go
 Thumbs.db
 
 # Compiled binary or directories specific to your project
-/CatCatcher/CatCatcher/
+CatCatcher
+
