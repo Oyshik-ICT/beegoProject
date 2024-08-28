@@ -1,0 +1,16 @@
+# Application name
+# Replace with your application's name
+appname = YourAppName
+
+# HTTP port
+# Replace with the port number you want your application to listen on
+httpport = 8080
+
+# Running mode
+# Options: dev, prod, test
+# Use 'dev' for development, 'prod' for production, 'test' for testing
+runmode = dev
+
+# API Key for external services
+# Replace with your actual API key or leave empty if not using
+catapi_key = your_api_key_here
